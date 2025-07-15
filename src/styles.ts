@@ -7,6 +7,7 @@ padding:0;
 font-family: "Inter", sans-serif;
 font-optical-sizing: auto;
 font-style: normal;
+list-style: none;
 }
 
 
